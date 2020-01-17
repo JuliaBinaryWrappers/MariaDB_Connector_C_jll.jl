@@ -1,0 +1,95 @@
+[[MariaDB_Connector_C]]
+arch = "i686"
+git-tree-sha1 = "92e41de937418f5a1d62ff1820d9e6ca51c13624"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "453171c1547e3bbebbaf9bfcaaf3041b4e089f69117d1398bc0a7f1b74a73d91"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.i686-linux-gnu.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "i686"
+git-tree-sha1 = "86763ca295ba745162005b0fe2b8b012df204ab3"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "c016d0c0b6a35d958273933e66fa46cb19534862c534e33a9aa9b8b6d48cc029"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.i686-linux-musl.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "cbc9b7d8d59255ff9380b68bcc1bbde405ebb681"
+os = "macos"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "fca6b653463e043c23d9e58fa0d8a6916634b24c550b9f16f891a81112f080a3"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.x86_64-apple-darwin14.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "powerpc64le"
+git-tree-sha1 = "7ede34ca566dddf01ec189afeee02b3816d2807c"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "692abdddd35d0c10424564e79b437f3921e3267fbec7b2fcb96ae8bbca3585f8"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.powerpc64le-linux-gnu.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "aarch64"
+git-tree-sha1 = "e901acbbbd194b39a8ab0f6acc8082b3d6fc931b"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "b6830355349db7be798e39737a76f75a4102cb42fddc26606c95422e81e0f285"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.aarch64-linux-gnu.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "87d9f53a7d113379d27410c70d04d1c6a753f91f"
+libc = "musl"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "ef6f3bc1828cd3c096d55b9cf36e905a75af22fe7569907faf69e3d8bd033122"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.x86_64-linux-musl.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "i686"
+git-tree-sha1 = "d9b3ceb08678d083f90e009fc370f6a7cf8cc6df"
+os = "windows"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "622603fa261d6622cfc4dd95a37b0759c9a083f7ee885a024ae496c4199b4e79"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.i686-w64-mingw32.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "610738e845a786b09dcef4104bfcd46cea140229"
+os = "freebsd"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "be9b691b6c662bd76c4463d269e7d035c692963b175485ce0ab5e9e5683a3fa5"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.x86_64-unknown-freebsd11.1.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "armv7l"
+git-tree-sha1 = "41d4349b1ffa9bc708a1fad5ffe30c24c4a71e09"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "81bf9b79ff9c65f17d9874dbca7d8be27b6ea0e393f60c03bf330f23de5d02bc"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.arm-linux-gnueabihf.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "ba2a28f414374e4193eef766bd6fe0602ca0406c"
+libc = "glibc"
+os = "linux"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "0f0d8fa127f2174c577e6f628cf50e1c3ae8b150426ecabddca6fe18e9ea9ca1"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.x86_64-linux-gnu.tar.gz"
+[[MariaDB_Connector_C]]
+arch = "x86_64"
+git-tree-sha1 = "77c38f7c5064b3a0e929a2533525b64502979695"
+os = "windows"
+
+    [[MariaDB_Connector_C.download]]
+    sha256 = "d2e06d7915a4dac009ced2e1e69ca7635dbd92f146564abe34922839f3a834db"
+    url = "https://github.com/JuliaBinaryWrappers/MariaDB_Connector_C_jll.jl/releases/download/MariaDB_Connector_C-v3.1.6+0/MariaDB_Connector_C.v3.1.6.x86_64-w64-mingw32.tar.gz"
